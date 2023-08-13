@@ -12,4 +12,4 @@ The Flight Booking Web Application is a simple Django-based web platform that en
 
 - **Add Passengers:** The application provides an intuitive interface for adding passengers to a chosen flight. Passengers' details, such as name, seat number, and contact information, can be easily input.
 
-- - **Testing File:** Unit tests ensure the reliability of the database models, views, and user interactions. Run the tests with:python manage.py test
+-  **Testing File:** Unit tests ensure the reliability of the database models, views, and user interactions. Run the tests with:python manage.py test
